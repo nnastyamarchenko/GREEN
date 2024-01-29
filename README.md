@@ -6,9 +6,16 @@
 ## Project idea
 ### Abstract
 
-### Goal
 
 ### Research questions
+
+**Key research question:** What are the main trends in the study of environmental practices over the last 10 years (from 2013 to 2022 inclusive) in the field of environmental sociology?
+
+**Research sub-questions:**
+- Sub-question 1. What are the conceptual trends in environmental practices research for 2013–2022?
+- Sub-question 2. What are the methodological trends in environmental practices research for 2013–2022?
+- Sub-question 3. Is there (what is) the relationship between the types of publications (conceptual and methodological) on environmental practices and the level of academic reputation (expressed by quartile) in the various journals that publish them for 2013–2022?
+- Sub-question 4. What are the geographical features in environmental practice research for 2013-2022? Which authors from which countries (expressed by country of the author's affiliation) contribute the most to this study and is there the relationship between the country of the author's affiliation and the prevailing topics covered in their publications?
 
 ## Credits
 
