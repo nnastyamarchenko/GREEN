@@ -1,13 +1,19 @@
 # GREEN
 
-**Full title of the project:** "Green" Practices: Identification of Current Research Trends in the Academic Literature on Environmental Sociology
+**Full project title:** "Green" Practices: Identification of Current Research Trends in the Academic Literature on Environmental Sociology
+**Project website:** 
 
+## Project idea
+### Abstract
 
-## Abstract
+### Goal
 
+### Research questions
 
 ## Credits
 
+* Anastasiia Marchenko:
+* Silje Eriksen:
 
 ## License
 
