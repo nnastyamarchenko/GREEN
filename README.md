@@ -21,8 +21,8 @@
 
 ## Credits
 
-* Anastasiia Marchenko (email: anastasiia.marchenk2@studio.unibo.it):
-* Silje Eriksen (email: silje.eriksen@studio.unibo.it):
+* Anastasiia Marchenko (email: anastasiia.marchenk2@studio.unibo.it): Data Collection and Analysis, Data Visualization and Web Communication.
+* Silje Eriksen (email: silje.eriksen@studio.unibo.it): Data Collection and Analysis, Data Visualization and Web Communication.
 
 ## License
 
