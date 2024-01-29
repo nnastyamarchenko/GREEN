@@ -4,7 +4,7 @@
 
 **Project website:** 
 
-**Project repository:**
+**Project repository:** https://github.com/nnastyamarchenko/GREEN
 
 ## Abstract
 
