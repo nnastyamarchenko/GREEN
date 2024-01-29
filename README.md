@@ -19,8 +19,8 @@
 
 ## Credits
 
-* Anastasiia Marchenko:
-* Silje Eriksen:
+* Anastasiia Marchenko (email: anastasiia.marchenk2@studio.unibo.it):
+* Silje Eriksen (email: silje.eriksen@studio.unibo.it):
 
 ## License
 
