@@ -25,4 +25,5 @@
 * Silje Eriksen (email: silje.eriksen@studio.unibo.it): Data Collection and Analysis, Data Visualization and Web Communication.
 
 ## License
+The project is licensed under the Creative Common Attribution (CC-BY) International License.
 
