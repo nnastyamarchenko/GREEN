@@ -25,5 +25,13 @@
 * Silje Eriksen (email: silje.eriksen@studio.unibo.it): Data Collection and Analysis, Data Visualization and Web Communication.
 
 ## License
-The project is licensed under the Creative Common Attribution (CC-BY) International License.
 
+This project utilizes data obtained from Elsevier APIs, which are provided under a non-commercial license. Access to the APIs is subject to compliance with Elsevier's policies for using APIs and the data obtained through them.
+
+For more information about the licensing terms and conditions, please refer to the [Elsevier API License Agreement](https://dev.elsevier.com/).
+
+This project utilizes data obtained from the SCImago Journal & Country Rank (SJR) portal, developed by SCImago research group. The SJR portal provides a publicly avilable portal to journal and country scientific indicators derived from the Scopus® database, allowing users to assess and analyze scientific domains.
+
+For more information about the SJR portal and its conditions, please visit the [SCImago website](https://www.scimagojr.com/aboutus.php).
+
+The project is licensed under the Creative Common Attribution (CC-BY) International License.
