@@ -6,9 +6,6 @@
 
 **Project repository:** https://github.com/nnastyamarchenko/GREEN
 
-## Abstract
-
-
 ## Research questions
 
 **Key research question:** What are the main trends in the study of environmental practices over the last 10 years (from 2013 to 2022 inclusive) in the field of environmental sociology?
