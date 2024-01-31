@@ -2,7 +2,7 @@
 
 **Full project title:** "Green" Practices: Identification of Current Research Trends in the Academic Literature on Environmental Sociology
 
-**Project website:** 
+**Project website:** https://nnastyamarchenko.github.io/GREEN/
 
 **Project repository:** https://github.com/nnastyamarchenko/GREEN
 
